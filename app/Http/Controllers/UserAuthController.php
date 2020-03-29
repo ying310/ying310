@@ -12,5 +12,8 @@ class UserAuthController extends Controller
         ];
         return view('auth.signUp', $binding);
     }
+    public function signUpProcess(){
+        return "hello";
+    }
 }
  ?>

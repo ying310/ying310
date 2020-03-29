@@ -10,7 +10,7 @@
     <a href="#">登入</a>
   </header>
   <div class="container">
-    @yield('content');
+    @yield('content')
   </div>
   <footer>
     <a href="#">聯絡我們</a>
